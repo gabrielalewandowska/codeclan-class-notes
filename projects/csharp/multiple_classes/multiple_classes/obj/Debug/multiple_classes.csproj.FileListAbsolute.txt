@@ -1,0 +1,8 @@
+/Users/user/codeclan_work/projects/csharp/multiple_classes/multiple_classes/bin/Debug/multiple_classes.dll
+/Users/user/codeclan_work/projects/csharp/multiple_classes/multiple_classes/bin/Debug/multiple_classes.pdb
+/Users/user/codeclan_work/projects/csharp/multiple_classes/multiple_classes/bin/Debug/nunit.framework.dll
+/Users/user/codeclan_work/projects/csharp/multiple_classes/multiple_classes/bin/Debug/nunit.framework.xml
+/Users/user/codeclan_work/projects/csharp/multiple_classes/multiple_classes/obj/Debug/multiple_classes.csprojResolveAssemblyReference.cache
+/Users/user/codeclan_work/projects/csharp/multiple_classes/multiple_classes/obj/Debug/multiple_classes.csproj.CoreCompileInputs.cache
+/Users/user/codeclan_work/projects/csharp/multiple_classes/multiple_classes/obj/Debug/multiple_classes.dll
+/Users/user/codeclan_work/projects/csharp/multiple_classes/multiple_classes/obj/Debug/multiple_classes.pdb

@@ -1,0 +1,10 @@
+/Users/user/codeclan_work/projects/c#/first_app/bin/Debug/netcoreapp2.0/first_app.deps.json
+/Users/user/codeclan_work/projects/c#/first_app/bin/Debug/netcoreapp2.0/first_app.runtimeconfig.json
+/Users/user/codeclan_work/projects/c#/first_app/bin/Debug/netcoreapp2.0/first_app.runtimeconfig.dev.json
+/Users/user/codeclan_work/projects/c#/first_app/bin/Debug/netcoreapp2.0/first_app.dll
+/Users/user/codeclan_work/projects/c#/first_app/bin/Debug/netcoreapp2.0/first_app.pdb
+/Users/user/codeclan_work/projects/c#/first_app/obj/Debug/netcoreapp2.0/first_app.csproj.CoreCompileInputs.cache
+/Users/user/codeclan_work/projects/c#/first_app/obj/Debug/netcoreapp2.0/first_app.AssemblyInfoInputs.cache
+/Users/user/codeclan_work/projects/c#/first_app/obj/Debug/netcoreapp2.0/first_app.AssemblyInfo.cs
+/Users/user/codeclan_work/projects/c#/first_app/obj/Debug/netcoreapp2.0/first_app.dll
+/Users/user/codeclan_work/projects/c#/first_app/obj/Debug/netcoreapp2.0/first_app.pdb

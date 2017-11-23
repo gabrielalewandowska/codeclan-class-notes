@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{FE01353F-1BDC-4D5A-8932-55DCE375454F}|Unit Tests">
+  <MonoDevelop.Ide.Workbench ActiveDocument="jewel_thief/ICanBeStolen.cs">
+    <Files>
+      <File FileName="jewel_thief/Tests/ThiefTest.cs" Line="45" Column="9" />
+      <File FileName="jewel_thief/Thief.cs" Line="36" Column="32" />
+      <File FileName="jewel_thief/Books/Book.cs" Line="1" Column="1" />
+      <File FileName="jewel_thief/Books/BookSummoningDragons.cs" Line="13" Column="33" />
+      <File FileName="jewel_thief/BookTest.cs" Line="31" Column="17" />
+      <File FileName="jewel_thief/ICanBeStolen.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="jewel_thief" expanded="True">
+            <Node name="jewel_thief" expanded="True">
+              <Node name="Books" expanded="True" />
+              <Node name="Jewels" selected="True" />
+              <Node name="Tests" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.jewel__thief PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

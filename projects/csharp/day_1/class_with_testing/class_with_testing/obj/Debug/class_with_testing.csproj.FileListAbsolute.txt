@@ -1,0 +1,7 @@
+/Users/user/codeclan_work/projects/csharp/day_1/class_with_testing/class_with_testing/bin/Debug/class_with_testing.dll
+/Users/user/codeclan_work/projects/csharp/day_1/class_with_testing/class_with_testing/bin/Debug/class_with_testing.pdb
+/Users/user/codeclan_work/projects/csharp/day_1/class_with_testing/class_with_testing/bin/Debug/nunit.framework.dll
+/Users/user/codeclan_work/projects/csharp/day_1/class_with_testing/class_with_testing/bin/Debug/nunit.framework.xml
+/Users/user/codeclan_work/projects/csharp/day_1/class_with_testing/class_with_testing/obj/Debug/class_with_testing.csproj.CoreCompileInputs.cache
+/Users/user/codeclan_work/projects/csharp/day_1/class_with_testing/class_with_testing/obj/Debug/class_with_testing.dll
+/Users/user/codeclan_work/projects/csharp/day_1/class_with_testing/class_with_testing/obj/Debug/class_with_testing.pdb

@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{7359F2F2-00CE-4013-A317-0616ABE7F08F}|Unit Tests">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Library/Library.cs">
+    <Files>
+      <File FileName="Library/Test.cs" Line="23" Column="38" />
+      <File FileName="Library/Library.cs" Line="14" Column="9" />
+      <File FileName="Library/Runner.cs" Line="6" Column="32" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Library PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

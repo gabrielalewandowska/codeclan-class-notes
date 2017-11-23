@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{5A2B8636-9876-41BC-B722-B1D1FA6732AF}|Unit Tests">
+  <MonoDevelop.Ide.Workbench ActiveDocument="bus_lab/Bus.cs">
+    <Files>
+      <File FileName="bus_lab/Bus.cs" Line="8" Column="9" />
+      <File FileName="bus_lab/Test.cs" Line="46" Column="33" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.bus__lab PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>

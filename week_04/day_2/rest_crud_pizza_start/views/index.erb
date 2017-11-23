@@ -1,0 +1,11 @@
+<h1>All the pizzas go here</h1>
+
+<% for pizza in @pizzas do %>
+
+  <p>Name: <%= pizza.pretty_name %> </p>
+  <p>Order: <%= pizza.quantity %> x <%= pizza.topping %> </p>
+  <p><a href="/pizzas/<%= pizza.id %>">Show Order</a></p>
+  <p><a href="/pizzas/<%= pizza.id %>/edit">Change Order</a></p>
+  <hr/>
+
+<% end %>

@@ -1,0 +1,24 @@
+
+<form action="/students/<%= @student.id %>" method="POST">
+
+  <label for="first-name-field">First name:</label>
+  <input type="text" name="first_name" value="<%= @student.first_name %>" id="first-name-field"/>
+
+ <label for="second-name-field">Second Name:</label>
+  <input id="second-name-field" type="text" name="second_name" value="<%= @student.second_name %>">
+
+
+ <label for="house-select">Which house did the Sorting Hat choose:</label>
+  <select id="house-select" name="house_id">
+    <% for house in @houses %>
+    <option <%= 'selected' if @student.house_id == house.id %> value="<%= house.id %>"><%= house.name %></option>
+    <% end %>
+  </select>
+
+
+ <label for="age">Age:</label>
+  <input id="age" type="number" name="age" value="<%= @student.age %>"/>
+
+ <input type="submit" value="Update Student">
+
+</form>

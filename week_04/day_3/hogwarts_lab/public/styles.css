@@ -1,0 +1,24 @@
+body {
+  text-align: center;
+}
+
+ul {
+  list-style-type: none;
+}
+
+a:hover {
+  color: red
+}
+
+.grid-row{
+  border: flex;
+  flex-direction: row;
+}
+
+form {
+  padding-top: 50px;
+}
+
+footer {
+  padding-top: 50px;
+}

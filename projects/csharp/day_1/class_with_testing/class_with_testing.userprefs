@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{050BA316-A9D1-4936-816D-61907FDBA49D}|Unit Tests">
+  <MonoDevelop.Ide.Workbench ActiveDocument="class_with_testing/Test.cs">
+    <Files>
+      <File FileName="class_with_testing/BankAccount.cs" Line="8" Column="24" />
+      <File FileName="class_with_testing/Test.cs" Line="18" Column="9" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.class__with__testing PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>

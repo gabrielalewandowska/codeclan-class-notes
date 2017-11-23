@@ -1,0 +1,3 @@
+/Users/user/codeclan_work/projects/c#/tiny_web_app/obj/Debug/netcoreapp2.0/tiny_web_app.csproj.CoreCompileInputs.cache
+/Users/user/codeclan_work/projects/c#/tiny_web_app/obj/Debug/netcoreapp2.0/tiny_web_app.AssemblyInfoInputs.cache
+/Users/user/codeclan_work/projects/c#/tiny_web_app/obj/Debug/netcoreapp2.0/tiny_web_app.AssemblyInfo.cs

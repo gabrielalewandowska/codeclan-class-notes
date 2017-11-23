@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Hogwarts</title>
+    <link rel="stylesheet" href="/styles.css"/>
+  </head>
+  <body>
+    <div class="grid">
+      <div class="grid-row grid-row-sm">
+      <nav>
+      <ul>
+        <li><a href="/">Home</a></li>
+        <li><a href="/students">View students</a></li>
+        <li><a href="/students/new">Enroll a student</a></li>
+      </ul>
+    </nav>
+  </div>
+  <div class="grid-row grid-row-sm">
+    <img src="https://lostbetweentheletters.files.wordpress.com/2010/08/house-crests1.jpg" height="250" width="800" alt="Hogwarts' houses banners"/>
+  </div>
+    <%= yield %>
+    </div>
+    <footer> Copyright &copy; Nicky & Gaby</footer></body>
+</html>
